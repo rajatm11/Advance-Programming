@@ -1,0 +1,8 @@
+﻿  cracker.cpp
+E:\CourseWOrk_1\experimental\cracker.cpp(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CourseWOrk_1\experimental\cracker.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+E:\CourseWOrk_1\experimental\cracker.cpp(79,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\CourseWOrk_1\experimental\cracker.cpp(16,13): warning C4101: 'strlng': unreferenced local variable
+E:\CourseWOrk_1\experimental\cracker.cpp(16,6): warning C4101: 'p': unreferenced local variable
+E:\CourseWOrk_1\experimental\cracker.cpp(16,26): warning C4101: 'C': unreferenced local variable
+  experimental.vcxproj -> E:\CourseWOrk_1\Debug\experimental.exe
